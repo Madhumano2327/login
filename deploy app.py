@@ -32,6 +32,3 @@ def main():
         student_dashboard()
     else:
         login_page()
-
-if _name_ == "_main_":
-    main()
